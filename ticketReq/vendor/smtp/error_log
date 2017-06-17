@@ -1,0 +1,1 @@
+[07-Sep-2016 00:12:22 CST6CDT] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to mail.bletindia.com:25 (Network is unreachable) in /home/bletindi/public_html/smtp/mail/class.smtp.php on line 122

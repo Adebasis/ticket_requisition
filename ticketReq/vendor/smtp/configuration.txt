@@ -1,0 +1,26 @@
+URL :: http://serverfault.com/questions/635139/how-to-fix-send-mail-authorization-failed-534-5-7-14
+
+This worked for me.
+
+1) Login to your gmail account.
+
+2) Go to https://www.google.com/settings/security/lesssecureapps and Turn On this feature.
+
+3) Go to https://accounts.google.com/DisplayUnlockCaptcha and click Continue.
+
+Then you can authenticate your Additional Email Address from your Gmail Account.
+
+Uncomment the following line in php.ini file
+";extension=php_imap.dll"
+
+
+sales.blet@gmail.com / blet@2016
+
+
+
+
+
+
+IMAP_SEARCH Format links :: https://www.example-code.com/php/imap_search.asp
+
+
