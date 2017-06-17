@@ -1,0 +1,23 @@
+<chart caption='Country Comparison' shownames='1' showvalues='0' decimals='0' numberPrefix='$'>
+<categories><category label='Austria' /><category label='Brazil' /><category label='France' /><category label='Germany' /><category label='USA' /></categories><dataset seriesName='1996' color='AFD8F8' showValues='0'>
+<set value='0' />
+<set value='2' />
+<set value='1' />
+<set value='3' />
+<set value='3' />
+</dataset>
+<dataset seriesName='1997' color='F6BD0F' showValues='0'>
+<set value='5' />
+<set value='4' />
+<set value='4' />
+<set value='1' />
+<set value='1' />
+</dataset>
+<dataset seriesName='1998' color='8BBA00' showValues='0'>
+<set value='4' />
+<set value='4' />
+<set value='1' />
+<set value='7' />
+<set value='9' />
+</dataset>
+</chart>
